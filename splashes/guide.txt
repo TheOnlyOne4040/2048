@@ -1,0 +1,6 @@
+CONTROLS:
+  merge up:     w
+  merge left:   a
+  merge down:   s
+  merge right:  d
+  quit:         q
